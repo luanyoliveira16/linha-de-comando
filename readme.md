@@ -7,4 +7,4 @@
 
  <h6>Para buscar ip ou servidor basta utilizar o arquivo exe, primeira-aplicacao-go, seguido de ip/servidres --host e o endereço do site desejado. Caso não utilize a flag --host, as informações retornadas serão relativas ao site oficial da Madonna.</h6>
 ./primeira-aplicacao-go ip --host mercadolivre.com.br <br>
-./primeira-aplicacao-go ip --host mercadolivre.com.br
+./primeira-aplicacao-go servidores --host mercadolivre.com.br
